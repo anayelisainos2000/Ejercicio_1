@@ -10,3 +10,5 @@ SELECT * FROM types
 -- 4
 SELECT * FROM pokemon_types
 
+--5
+SELECT * FROM pokemon
